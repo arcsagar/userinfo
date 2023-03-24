@@ -28,7 +28,7 @@ export default function UserCards(props) {
 
   const allCardDiv = <div> {allCards} </div>
 
-  console.log('allCardDiv',allCardDiv)
+  console.log('allCardDiv 2',allCardDiv)
   return (
     <div>
       {userData.length > 0 ? (
